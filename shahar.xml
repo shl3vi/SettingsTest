@@ -1,0 +1,14 @@
+<settings>
+  <profiles>
+    <profile>
+      <id>shahar</id>
+      <properties>
+        <shahar.app.name>app1</shahar.app.name>
+      </properties>
+    </profile>
+  </profiles>
+ 
+  <activeProfiles>
+    <activeProfile>shahar</activeProfile>
+  </activeProfiles>
+</settings>
